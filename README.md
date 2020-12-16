@@ -30,22 +30,27 @@
   - Linux+
     - You will understand linux and how to use it from this course.
     
+  - [TCM TheCyberMentor](https://academy.tcm-sec.com/) Course
+  
   - Scripting with Python or Bash
     - Use any scripting language it will be you with automation. 
     
   - Understanding Operating systems windows/linux (You can take OS course)
     - taking a OS course it will make you understand the OS kernal and Memory Management.
+  
+  - Good course for Privilege escalation for [linux](https://tryhackme.com/room/linuxprivescarena) & [Windows](https://www.aldeid.com/wiki/TryHackMe-Windows-PrivEsc-Arena)
     
   - Practice (it will be hard at first but after some tries, it will be okay)
     - Solve machines on [Vulnhub](https://www.vulnhub.com/) 
     - Solve machines on [Hackthebox](https://www.hackthebox.eu/)
 
 ## Mobile Pentesting
-  - eMAPT Course
+  - eMAPT Course (Its very basics)
     - This is not the best one but it will give you the first step but it's not all think
     
   - SEC575 from SANS
   - FOR585 from SANS
+  - Good [Blog](http://blog.itselectlab.com/?page_id=7703) as Reference
   - To Practice you can try some Bug Bouny Hunt on programs use Mobile Apps
 
 ## Malware Analysis
