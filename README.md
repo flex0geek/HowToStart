@@ -12,11 +12,16 @@
   - Playing CTF
     - CTFs is have some real world examples for a vulnerabilities or CVEs or some new exploits you will know from it.
     
-  - Do some Bug Hunting and this website will help [BugBountyHunter](https://bugbountyhunter.com/)
+  - Do some Bug Hunting and this website will help [BugBountyHunter](https://bugbountyhunter.com/).
+    - Watch this [Methodology](https://www.youtube.com/watch?v=gIz_yn0Uvb8) by [Jason Haddix](https://twitter.com/jhaddix).
+    - Initially, you can start with hunting on programs that offer points to gain experience.
   
   - You can take eWAPTx & eWAPT
     - eWAPT: it will be a good one in the beginning because it has some basics about Web Pen-Testing.
     - eWAPTx: this one is advanced one you can start with it when you be at least good with the vulnerabilities and the matriales in eWAPT.
+  
+  - [Web Pen-Testing Course](https://www.youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj) by [Ebrahem Hegazy](https://twitter.com/Zigoo0) (Arabic Course)
+    - This will help you to understand the vulnerabilities, how to send a right report, and will Bug Hunting live.
   
 ## Network Pentesing
   - Network+
