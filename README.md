@@ -43,6 +43,14 @@
   - Practice (it will be hard at first but after some tries, it will be okay)
     - Solve machines on [Vulnhub](https://www.vulnhub.com/) 
     - Solve machines on [Hackthebox](https://www.hackthebox.eu/)
+  
+  - Basic knowledge of Reverse Engineering
+  
+  - Certificates
+    - PTS (Beginners)
+    - PTP
+    - PTX
+    - OSCP
 
 ## Mobile Pentesting
   - eMAPT Course (Its very basics)
