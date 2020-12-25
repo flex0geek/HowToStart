@@ -53,6 +53,8 @@
     - OSCP
 
 ## Mobile Pentesting
+  - Learning Java & Create mobile apps to Practice
+  - Basics of Linux (you can use this [Book](https://drive.google.com/file/d/1jvphfw61odAcGixV7erYcRui2Iz9tjAu/view))
   - eMAPT Course (Its very basics)
     - This is not the best one but it will give you the first step but it's not all think
     
