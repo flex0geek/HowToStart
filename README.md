@@ -8,7 +8,13 @@
     
   - Understand the vulnerabilities
     - You should know what is the vulnerability, What Code makes this vulnerability, How to find this vulnerability in Applications, and How to solve it.
-    
+  
+  - Practice
+    - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+    - [Hacker101](https://www.hacker101.com/)
+    - [Try Hack Me](https://tryhackme.com/)
+    - [Pentester Lab](https://pentesterlab.com/)
+  
   - Playing CTF
     - CTFs is have some real world examples for a vulnerabilities or CVEs or some new exploits you will know from it.
     
@@ -20,8 +26,14 @@
     - eWAPT: it will be a good one in the beginning because it has some basics about Web Pen-Testing.
     - eWAPTx: this one is advanced one you can start with it when you be at least good with the vulnerabilities and the matriales in eWAPT.
   
+  - You can take OSWE But it is advanced and need Code Review Skills.
+  
   - [Web Pen-Testing Course](https://www.youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj) by [Ebrahem Hegazy](https://twitter.com/Zigoo0) (Arabic Course)
     - This will help you to understand the vulnerabilities, how to send a right report, and will Bug Hunting live.
+  
+  - [My Web Pentesting Course](https://www.youtube.com/playlist?list=PLsB1gqjeUAh_yEuLgtZ0ppLlExcYOL2Kp)
+
+  - [Collection of Bug Hunting Reports](https://pentester.land/list-of-bug-bounty-writeups.html)
   
 ## Network Pentesing
   - Network+
