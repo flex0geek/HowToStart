@@ -56,6 +56,8 @@
     - Solve machines on [Vulnhub](https://www.vulnhub.com/) 
     - Solve machines on [Hackthebox](https://www.hackthebox.eu/)
   
+  - [The Cyber Mentor Network Pentesting Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
+  
   - Basic knowledge of Reverse Engineering
   
   - Certificates
