@@ -67,16 +67,17 @@
     - OSCP
 
 ## Mobile Pentesting
-  - Learning Java & Create mobile apps to Practice
   - Basics of Linux (you can use this [Book](https://drive.google.com/file/d/1jvphfw61odAcGixV7erYcRui2Iz9tjAu/view))
   - eMAPT Course (Its very basics)
     - This is not the best one but it will give you the first step but it's not all think
-    
   - SEC575 from SANS
   - FOR585 from SANS
   - Good [Blog](http://blog.itselectlab.com/?page_id=7703) as Reference
   - To Practice you can try some Bug Bouny Hunt on programs use Mobile Apps
   - [OWASP Mobile Security Testing Guide](https://leanpub.com/mobile-security-testing-guide)
+  - [Exploiting memory corruption vulnerabilities on Android](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
+  - [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts)
+  - [Twitter Thread for some apps to practice](https://twitter.com/cyph3r_asr/status/1413438299545296902)
 
 ## Malware Analysis
   - This is a [Roadmap](https://drive.google.com/drive/folders/1grlkHlPtwoLiYiNFzf1-LD0HjDwtuOUl) from [Muhammed Talaat](https://www.facebook.com/vs.viro)
