@@ -64,8 +64,8 @@
   - [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts)
   - [Twitter Thread for some apps to practice](https://twitter.com/cyph3r_asr/status/1413438299545296902)
   - [Mobile Application Penetration Testing Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet#contribution)
-  - [check list for webView ](https://blog.oversecured.com/Android-security-checklist-webview/)
-  - [ hacktricks have all topics for android ](https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting)
+  - [check list for webView](https://blog.oversecured.com/Android-security-checklist-webview/)
+  - [Hacktricks have all topics for android](https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting)
   - [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
 
 ## Malware Analysis
