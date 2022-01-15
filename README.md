@@ -50,6 +50,8 @@
 
 ## Mobile Pentesting
   - Basics of Linux (you can use this [Book](https://drive.google.com/file/d/1jvphfw61odAcGixV7erYcRui2Iz9tjAu/view))
+  - https://techvomit.net/android-security-notes/
+  - https://github.com/B3nac/Android-Reports-and-Resources
   - eMAPT Course (Its very basics)
     - This is not the best one but it will give you the first step but it's not all think
   - SEC575 from SANS
