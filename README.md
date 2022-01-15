@@ -58,10 +58,15 @@
   - FOR585 from SANS
   - Good [Blog](http://blog.itselectlab.com/?page_id=7703) as Reference
   - To Practice you can try some Bug Bouny Hunt on programs use Mobile Apps
+  - [Android Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/reversing_intro.html)
   - [OWASP Mobile Security Testing Guide](https://leanpub.com/mobile-security-testing-guide)
   - [Exploiting memory corruption vulnerabilities on Android](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
   - [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts)
   - [Twitter Thread for some apps to practice](https://twitter.com/cyph3r_asr/status/1413438299545296902)
+  - [Mobile Application Penetration Testing Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet#contribution)
+  - [check list for webView ](https://blog.oversecured.com/Android-security-checklist-webview/)
+  - [ hacktricks have all topics for android ](https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting)
+  - [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
 
 ## Malware Analysis
   - This is a [Roadmap](https://drive.google.com/drive/folders/1grlkHlPtwoLiYiNFzf1-LD0HjDwtuOUl) from [Muhammed Talaat](https://www.facebook.com/vs.viro)
