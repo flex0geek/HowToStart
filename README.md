@@ -68,6 +68,7 @@
   - [Hacktricks have all topics for android](https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting)
   - [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
   - [Try hack me (androidhacking101) room](https://tryhackme.com/room/androidhacking101)
+  - [Getting Started With Objection + Frida](https://www.secjuice.com/objection-frida-guide/)
 
 ## Malware Analysis
   - This is a [Roadmap](https://drive.google.com/drive/folders/1grlkHlPtwoLiYiNFzf1-LD0HjDwtuOUl) from [Muhammed Talaat](https://www.facebook.com/vs.viro)
