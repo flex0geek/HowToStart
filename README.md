@@ -69,7 +69,13 @@
   - [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
   - [Try hack me (androidhacking101) room](https://tryhackme.com/room/androidhacking101)
   - [Getting Started With Objection + Frida](https://www.secjuice.com/objection-frida-guide/)
+  - My [Mobile Pentesting Playlist](https://www.youtube.com/playlist?list=PLsB1gqjeUAh9WonIWRL-kREiliNi874hw)
 
 ## Malware Analysis
   - This is a [Roadmap](https://drive.google.com/drive/folders/1grlkHlPtwoLiYiNFzf1-LD0HjDwtuOUl) from [Muhammed Talaat](https://www.facebook.com/vs.viro)
   - [How to Build Your Career in Malware Analysis](https://www.facebook.com/amr.thabet.376/videos/397136105060646/) (Arabic Session)
+
+## Binary Exploitation
+  - [Live Overflow Playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+  - [Pwn College](https://pwn.college/) will give you a good basics, don't forget to practice after leasons on [pwn dojo](https://dojo.pwn.college/challenges).
+  
