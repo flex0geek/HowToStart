@@ -49,6 +49,7 @@
     - OSCP
 
 ## Mobile Pentesting
+  - all what you wall need for android pentesting will find here(https://github.com/saeidshirazi/awesome-android-security)
   - Basics of Linux (you can use this [Book](https://drive.google.com/file/d/1jvphfw61odAcGixV7erYcRui2Iz9tjAu/view))
   - https://techvomit.net/android-security-notes/
   - https://github.com/B3nac/Android-Reports-and-Resources
